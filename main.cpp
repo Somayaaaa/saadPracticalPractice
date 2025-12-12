@@ -1,7 +1,12 @@
 #include<iostream>
 using namespae std;
 void main() {
-	cout << "hello world!";
+	cout << "hello";
+	cout << "hey";
+	cout << "hi";
+	cout << "heya";
+
+
 
 }
 
